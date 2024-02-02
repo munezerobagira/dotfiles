@@ -6,10 +6,10 @@ live_config_reload=true
 [window]
 
 dynamic_padding=true
-decorations="Transparent"
+decorations="Full"
 opacity=0.9
 blur=true
-startup_mode="SimpleFullscreen"
+startup_mode="Fullscreen"
 title="Mbags Alacritty"
 dynamic_title=true
 decorations_theme_variant="Dark"
